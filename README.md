@@ -1,8 +1,8 @@
 ### Howdy, I'm Patrick 👋
 
-## I'm junior full-stack developer
+### I'm junior full-stack developer
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 
 
 <img align="left" alt="Visual Studio Code" width="24px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
@@ -15,13 +15,13 @@
 <img align="left" alt="AngularJS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="MySQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="C#" width="24px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img align="left" alt="Unity" width="24px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/unity_icon_136074.png"/>
+<img align="left" alt="C#" width="24px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" alt="Unity" width="24px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/unity_icon_136074.png" /><br>
 
 
-### 📝 Contact me
+## 📝 Contact me
 
-- Website:  [website](https://dream-speak.pl/)
+- Website:  [dream-speak.pl](https://dream-speak.pl/)
 - E-mail: piciuubest@gmail.com
 
 
