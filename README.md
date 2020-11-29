@@ -9,7 +9,7 @@
 <img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="24px" src="https://lh3.googleusercontent.com/proxy/8ltsLW4gj_ScC8AMnKFFz2536QfKlIrN9sYLPin8_Zx5yvllqTE5H2ZFWaIRHfogceaB3gRJE-uKGJRDVzK55A">
+<img align="left" alt="PHP" width="24px" src="https://icon-library.com/images/php-icon-png/php-icon-png-29.jpg">
 <img align="left" alt="Vue" width="24px" src="https://vuejs.org/images/logo.png">
 <img align="left" alt="Laravel" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
 <img align="left" alt="AngularJS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
