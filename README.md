@@ -5,7 +5,7 @@
 
 - ⚙️ Under active development on **Project Aridia** (_a mobile tower defense-like game built on the Unity 3D engine_)
 
-- 🖥️ Explore all my public projects on my [GitHub profile](https://github.com/PiciuU)
+- 🖥️ Explore all my public projects on my [GitHub profile](https://github.com/PiciuU) or check out my [portfolio website](https://patrykstrzalka.pl)
 
 - 📩 Reach me via email at piciuubest@gmail.com
 
